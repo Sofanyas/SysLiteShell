@@ -65,6 +65,9 @@ Parses the command line and builds the argument vector (argv). Handles backgroun
 ## Csapp
 The files 'csapp.h' and 'csapp.c' were initiated based on the code provided by the textbook "Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)" authored by Randal E. Bryant and David R. O'Hallaron from Carnegie Mellon University. The original source code can be found at the following website: http://csapp.cs.cmu.edu/3e/code.html. The use and adaptation of this code adhere to the guidelines and permissions provided by the textbook's accompanying materials.
 
+## Credits
+Developed by Sofanyas Genene on April 28th, 2023.
+
 ## Acknowledgments
 
-This program is developed by Sofanyas Genene with gratitude to the authors of "Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)," Randal E. Bryant and David R. O'Hallaron from Carnegie Mellon University. The starter code provided by the authors, available at http://csapp.cs.cmu.edu/3e/code.html, served as a valuable foundation for this project. Their insightful materials and resources significantly contributed to the development of this software.
+This program is developed with gratitude to the authors of "Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)," Randal E. Bryant and David R. O'Hallaron from Carnegie Mellon University. The starter code provided by the authors, available at http://csapp.cs.cmu.edu/3e/code.html, served as a valuable foundation for this project. Their insightful materials and resources significantly contributed to the development of this software.
